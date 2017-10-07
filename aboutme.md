@@ -1,12 +1,13 @@
 ---
 layout: page
-title: About me
-subtitle: Open Source Enthusiast and Love to design
+title: About Project
+subtitle: Automating hybrid cloud using ManageIQ and Ansible
 ---
 
-My name is Akshay Gaikwad. I am studing Computer Science Engineering and always in search of something to learn new things.
+[ManageIQ](http://manageiq.org) is the management platform use to manage hybrid cloud. It is possible to automate environment using [Ansible](https://www.ansible.com) after ManageIQ Fine release.
 
-I like to work with **Linux** and **FOSS**. Besides this, I love graphic designing and UI/UX design
+Our task is to develope Ansible playbook which can be imported in ManageIQ and achieve automation.
 
-Hang on to know more about me ;)
+Further We need to enhance that code for automate.
 
+This is really exciting project for me.
